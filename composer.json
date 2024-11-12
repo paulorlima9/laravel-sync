@@ -1,7 +1,7 @@
 {
-    "name": "paulorlima9/sync",
+    "name": "paulorlima9/laravel-sync",
     "description": "A git-like artisan command to easily sync files and folders between environments",
-    "homepage": "https://github.com/paulorlima9/sync",
+    "homepage": "https://github.com/paulorlima9/laravel-sync",
     "license": "MIT",
     "authors": [
         {

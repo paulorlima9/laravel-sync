@@ -1,4 +1,4 @@
-![Packagist version](https://flat.badgen.net/packagist/v/aerni/sync/latest) ![Packagist Total Downloads](https://flat.badgen.net/packagist/dt/aerni/sync) ![License](https://flat.badgen.net/github/license/paulorlima9/sync)
+![Packagist version](https://flat.badgen.net/packagist/v/aerni/sync/latest) ![Packagist Total Downloads](https://flat.badgen.net/packagist/dt/aerni/sync) ![License](https://flat.badgen.net/github/license/paulorlima9/laravel-sync)
 
 # Laravel Sync
 This package provides a git-like artisan command to easily sync files and folders between environments. This is super useful for assets, documents, and any other files that are untracked in your git repository.
